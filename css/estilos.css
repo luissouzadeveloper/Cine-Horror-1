@@ -19,6 +19,8 @@ header{
     font-family: logo;
     color: #fc1d25;
     font-size: 1.7em;
+    padding: 2%;
+    display: inline;
 }
 
 /*Links do menu*/
