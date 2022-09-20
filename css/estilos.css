@@ -18,6 +18,7 @@ header{
 .container a > h1{
     font-family: logo;
     color: #fc1d25;
+    font-size: 1.7em;
 }
 
 /*Links do menu*/
